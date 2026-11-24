@@ -18,18 +18,33 @@
 
 ---
 
-**TGHub** 是一个开源的 Telegram 精选中文导航与索引仓库。精选收录优质、活跃的中文社群、实用 BOT 机器人与应用，帮助用户发现优质内容。
+**TGHub** 是一个开源的 Telegram 精选中文导航与索引仓库。只精选收录优质、活跃的中文社群、实用 BOT 机器人与应用，帮助用户发现优质内容。
+
+推荐官网访问：**https://tgnav.com**
 
 ---
 
-## ⭐ 特别推荐
+## 📑 快速目录导航
 
-| 名称 | 简介 |
-| :--- | :--- |
-| <img src="./img/group-cover/recommend/soso.jpg" width="32" height="32" alt="SOSO搜索" /> [**SOSO搜索**](https://t.me/soso?start=a_6410041675) | 综合资源搜索一网打尽，全能搜索 |
-| <img src="./img/group-cover/recommend/jiso.jpg" width="32" height="32" alt="极搜" /> [**极搜**](https://t.me/jiso?start=a_6410041675) | 番号、磁力视频综合资源搜索 |
-| <img src="./img/group-cover/recommend/kuaisou.jpg" width="32" height="32" alt="快搜" /> [**快搜**](https://t.me/kuai?start=a_2Y0DFWA) | 热门视频综合资源搜索 |
-| <img src="./img/group-cover/recommend/shenma.jpg" width="32" height="32" alt="神马搜索" /> [**神马搜索**](https://t.me/smss?start=spread_6410041675) | TG中文导航搜索 |
+| 🤖 实用机器人 | 👥 频道与社群 (技术/工具) | 👥 频道与社群 (兴趣/生活) | 📖 推荐与指南 |
+| :---: | :---: | :---: | :---: |
+| [看剧影视与资源搜索](#看剧影视与资源搜索) | [数码科技与编程](#数码科技与编程) | [加密货币与 Web3](#加密货币与-web3) | [⭐ 特别推荐](#特别推荐) |
+| [群组协助管理](#群组协助管理) | [软件 / 脚本 / 效率工具](#软件--脚本--效率工具) | [音乐音频与电台](#音乐音频与电台) | [优选推荐](#优选推荐) |
+| [广告智能拦截](#广告智能拦截) | [新闻资讯与深度播客](#新闻资讯与深度播客) | [图片摄影与高清壁纸](#图片摄影与高清壁纸) | [常用中文语言包](#常用中文语言包一键安装) |
+| [群组抽奖助手](#群组抽奖助手) | [AI 人工智能](#ai-人工智能) | [生活日常与消费](#生活日常与消费) | [新手教程速查](#新手教程速查) |
+| [RSS 订阅推送](#rss-订阅推送) | [书籍读物与电子杂志](#书籍读物与电子杂志) | [影视娱乐与交流](#影视娱乐与交流) | [💡 提交收录](#提交收录) |
+| [趣味与实用工具](#趣味与实用工具) | [游戏娱乐与电竞](#游戏娱乐与电竞) | [📜 开源协议](#开源协议) | [⚠️ 免责声明](#免责声明) |
+
+---
+
+## ⭐ 特别推荐 <a id="特别推荐"></a>
+
+| 图片 | 名称 | 简介 |
+| :---: | :--- | :--- |
+| [<img src="./img/group-cover/recommend/soso.jpg" width="140" alt="SOSO搜索" />](https://t.me/soso?start=a_6410041675) | [**SOSO搜索**](https://t.me/soso?start=a_6410041675) | 综合资源搜索一网打尽，全能搜索 |
+| [<img src="./img/group-cover/recommend/jiso.jpg" width="140" alt="极搜" />](https://t.me/jiso?start=a_6410041675) | [**极搜**](https://t.me/jiso?start=a_6410041675) | 番号、磁力视频综合资源搜索 |
+| [<img src="./img/group-cover/recommend/kuaisou.jpg" width="140" alt="快搜" />](https://t.me/kuai?start=a_2Y0DFWA) | [**快搜**](https://t.me/kuai?start=a_2Y0DFWA) | 热门视频综合资源搜索 |
+| [<img src="./img/group-cover/recommend/shenma.jpg" width="140" alt="神马搜索" />](https://t.me/smss?start=spread_6410041675) | [**神马搜索**](https://t.me/smss?start=spread_6410041675) | TG中文导航搜索 |
 
 
 ## 优选推荐
@@ -204,7 +219,7 @@
 | <img src="./img/group-cover/it/vps_spiders.jpg" width="32" height="32" alt="全球VPS余量监控" /> [**全球VPS余量监控**](https://t.me/VPS_spiders) | 各网站各渠道监控爬虫合集，... |
 
 
-### 软件 / 脚本 / 效率工具
+### 软件 / 脚本 / 效率工具 <a id="软件--脚本--效率工具"></a>
 
 | 名称 | 简介 |
 | :--- | :--- |
@@ -392,28 +407,9 @@
 | <img src="./img/group-cover/entertainment/drawing1024.jpg" width="32" height="32" alt="瘦瘦的绘画世界" /> [**瘦瘦的绘画世界**](https://t.me/drawing1024) | 记录自己的绘画作品 平时的素描。 |
 | <img src="./img/group-cover/entertainment/aliyungaoqingshipin.jpg" width="32" height="32" alt="阿里云高清视频" /> [**阿里云高清视频**](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
 
-
----
-
-## 🕹️ Telegram 热门小游戏
-
-| 名称 | 简介 |
-| :--- | :--- |
-| <img src="./img/earn-money/game/blum.jpg" width="32" height="32" alt="Blum" /> [**Blum**](https://t.me/blum/app?startapp=ref_Bjk522t1Ku) | Blum是一个混合交易所，通过Telegram小应用程序中的游戏化提供通用代币访问，由币安投资。 |
-| <img src="./img/earn-money/game/paws.jpg" width="32" height="32" alt="PAWS" /> [**PAWS**](https://t.me/PAWSOG_bot/PAWS?startapp=0XQm7YIK) | 跟DOGS类似，根据电报注册时长，活跃情况直接发放一定数量的初始代币，目前只开放邀请领取更多代币 |
-| <img src="./img/earn-money/game/duckchain.jpg" width="32" height="32" alt="DuckChain" /> [**DuckChain**](https://t.me/DuckChain_bot/quack?startapp=Iv1r2NSO) | 俗称小黄鸭，是一款与 EVM 兼容的 TON L2 解决方案，现在可以每天签到就可以获取积分 |
-| <img src="./img/earn-money/game/major.jpg" width="32" height="32" alt="Major" /> [**Major**](https://t.me/major/start?startapp=6410041675) | Major 是一款基于 Telegram 的极简风游戏，玩家的唯一目标就是获得更多的星星，拥有的星星数量越多，排名就越高 |
-| <img src="./img/earn-money/game/tomarket.jpg" width="32" height="32" alt="Tomarket" /> [**Tomarket**](https://t.me/Tomarket_ai_bot/app?startapp=0000TQtL) | 番茄小游戏，来自于bitget交易所官方的推出的小游戏，每天签到及完成任务获取积分 |
-| <img src="./img/earn-money/game/catizon.jpg" width="32" height="32" alt="Catizon" /> [**Catizon**](https://t.me/catizenbot/gameapp?startapp=r_116_13529089) | 排在知名度最高的电报小游戏之一，类似于消消乐的玩法通过消除提升猫的等级，每个季度发放一次空投代币 |
-| <img src="./img/earn-money/game/hamster.jpg" width="32" height="32" alt="Hamster" /> [**Hamster**](https://t.me/hamSter_kombat_bot/start?startapp=kentId6410041675) | 俗称仓鼠，知名度高，玩法也比较简单：通过点击屏幕获取积分以及其他任务，每个季度发放一次空投代币 |
-| <img src="./img/earn-money/game/yescoin.jpg" width="32" height="32" alt="Yescoin" /> [**Yescoin**](https://t.me/theYescoin_bot/Yescoin?startapp=kzIwOD) | Yescoin是Telegram上的一款超级休闲迷你游戏，具有病毒式传播机制,通过滑动屏幕消除星星获取积分 |
-
-
 ---
 
 ## 📖 Telegram 必备新手指南
-
-本项目在 [docs/](./docs/) 目录下整理了完整的 Telegram 新手使用教程与常见问题解答：
 
 ### 常用中文语言包一键安装
 
@@ -440,20 +436,13 @@
 
 ---
 
-## 💡 资源提交与贡献指南
+## 💡 提交收录 <a id="提交收录"></a>
 
-欢迎大家共同维护更新！如果您发现了优质的群组、频道或机器人，欢迎提交收录：
-
-1. Fork 本仓库并 Clone 到本地。
-2. 在对应的分类表格中添加新项（包含图标与名称、简介）。
-3. 确保图标图片存放在 `img/` 对应子目录下。
-4. 提交 Pull Request，管理员审核通过后将合并发布。
-
-详细贡献规范请参考 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+请先star后提交issue，每周整理收录~
 
 ---
 
-## ⚠️ 免责声明
+## ⚠️ 免责声明 <a id="免责声明"></a>
 
 1. 本项目所有内容均收集整理自互联网公开渠道，仅供交流学习使用。
 2. 请遵守当地法律法规，文明使用网络。
@@ -461,6 +450,6 @@
 
 ---
 
-## 📜 开源协议
+## 📜 开源协议 <a id="开源协议"></a>
 
 本项目基于 [MIT License](./LICENSE) 开源。
